@@ -1,29 +1,63 @@
+body{
+    padding:0;
+    background-color:;
+    font-family:'Alegreya Sans', sans-serif;
+    color: #00171F;
+}
+
+.fa{
+    padding:20px;
+    font-size:30px;
+    width:30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover{
+    background: #1B98E0;
+
+}
+
 .resume{
     width: 775px;
-    background-color:wheat;
+    background-color:;
     margin-right: auto;
     margin-left: auto;
     padding: 20px 20px 20px 20px;
 }
+
 .span{
     display: block;
     text-align: center;
 
 }
+
 .socials{
     margin: auto;
     width: 30%;
 
 }
+
 .fa-facebook{
     background: coral;
     color: white;
 }
+
 .fa-twitter{
     background: yellowgreen;
     color: white;
 }
+
 #objective{
     width: 75px;
 
+}
+h1{
+    text-align: center;
+}
+span{
+    display: block;
+    text-align: center;
 }
