@@ -1,0 +1,29 @@
+.resume{
+    width: 775px;
+    background-color:wheat;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px 20px 20px 20px;
+}
+.span{
+    display: block;
+    text-align: center;
+
+}
+.socials{
+    margin: auto;
+    width: 30%;
+
+}
+.fa-facebook{
+    background: coral;
+    color: white;
+}
+.fa-twitter{
+    background: yellowgreen;
+    color: white;
+}
+#objective{
+    width: 75px;
+
+}
